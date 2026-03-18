@@ -1,2 +1,2 @@
 // nothing here
-console.log("Hello world");
+console.log("Hello Dingo");
